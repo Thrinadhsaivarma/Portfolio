@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Employee Database  Management",
+    "desc": "A Django-based system to manage employee records with seamless CRUD operations and a user-friendly interface.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://trinadhsaivarmai05.pythonanywhere.com/employee/",
+      "code": "https://github.com/Thrinadhsaivarma/EMPLOYEE-DATABASE.git"
+    }
+  },
+  {
+    "name": "CRUD Operations",
+    "desc": "A web application for efficient data management using Create, Read, Update, and Delete functionalities with a responsive UI.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://saivarmainapakruthika0508.pythonanywhere.com/",
+      "code": "https://github.com/Thrinadhsaivarma/CRUD-OPERATIONS.git"
+    }
+  },
+  {
+    "name": "Image Uploader",
+    "desc": "A secure and fast image upload system with optimized storage and a clean, user-friendly design.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://inapakruthikathrinadhvarma2003.pythonanywhere.com/",
+      "code": "https://github.com/Thrinadhsaivarma/Image-Uploader.git"
+    }
+  },
+  {
+    "name": "To-Do Application",
+    "desc": "A simple and efficient task manager for organizing daily activities with easy task addition, editing, and deletion.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://inapakruthikasaivarma2003.pythonanywhere.com/",
+      "code": "https://github.com/Thrinadhsaivarma/TODO.git"
+    }
+  },
+  {
+    "name": "Foodie Application",
+    "desc": "Developed Foodie, an interactive app for easy food discovery with a seamless user experience.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://thrinadhsaivarma.github.io/foodie-application/",
+      "code": "https://github.com/Thrinadhsaivarma/foodie-application.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Travel Yari Application",
+    "desc": "Developed Travel Yari, a user-friendly travel app for easy trip planning with an intuitive interface.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://thrinadhsaivarma.github.io/Travel-Yari/",
+      "code": "https://github.com/Thrinadhsaivarma/Travel-Yari.git"
+    }
+  },
+  {
+    "name": "Registration Form",
+    "desc": "Developed a secure and user-friendly registration form with seamless data validation, ensuring a smooth and efficient user onboarding experience.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "https://thrinadhsaivarma.github.io/Registration-form/",
+      "code": "https://github.com/Thrinadhsaivarma/Registration-form.git"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Advanced UI",
+    "desc": "Designed a modern and intuitive Advanced UI Registration Form with seamless user experience and robust data validation for efficient onboarding.",
+    "image": "issuetrack",
+    "category": "basicweb",
+    "links": {
+      "view": "https://thrinadhsaivarma.github.io/Advanced-UI/",
+      "code": "https://github.com/Thrinadhsaivarma/Advanced-UI.git"
+    }
+  },
+  {
+    "name": "Resistor Color Codes",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "resistercolor",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
